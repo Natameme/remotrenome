@@ -1,0 +1,15 @@
+h1{
+  font-family: Helvetica, Arial, Sans-Serif;
+
+  width: 621px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+}
+div {
+  font-family: Helvetica, Arial, Sans-Serif;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
